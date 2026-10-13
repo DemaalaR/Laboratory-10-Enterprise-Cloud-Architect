@@ -1,0 +1,6 @@
+backups/
+*.sql
+.env
+.env.*
+!.env.example
+*.log
